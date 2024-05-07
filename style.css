@@ -142,10 +142,7 @@ hr{
     padding: 0px 84px;
 
 }
-.image{
-    max-width: 568px;
-    margin-top: 100px;
-}
+
 footer{
     background-color: black;
     margin: auto;
@@ -192,6 +189,7 @@ p{
 }
 .pmostra{
     max-width: 988px;
+    font-size: 20px;
 }
 h2{
     max-width: 988px;
@@ -216,6 +214,10 @@ section.cards {
 }
 section.cards img{
     margin-bottom: 20px;
+}
+.image{
+    width: 350px;
+    display: flex;
 }
 
 
