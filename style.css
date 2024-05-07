@@ -82,6 +82,7 @@ header nav a:hover {
     position: absolute;
 }
 .testo1{
+    max-width: 998px;
     padding: 20px 96px;
     margin: auto;
 }
