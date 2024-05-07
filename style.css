@@ -54,11 +54,14 @@ header nav a:hover {
 .titolo h1 {
     font-size: 40px;
     padding: 20px 64px;
+    margin: auto;
 }
 
 .titolo p{
+    max-width: 988px;
     font-size: 28px;
     padding: 0px 64px;
+    margin: auto;
 }
 
 .primaparte h2{
