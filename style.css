@@ -80,8 +80,10 @@ header nav a:hover {
     margin: 0 auto; 
     object-position: center;
     position: absolute;
+    display: flex;
 }
 .testo1{
+    display: flex;
     max-width: 998px;
     padding: 20px 96px;
     margin: auto;
