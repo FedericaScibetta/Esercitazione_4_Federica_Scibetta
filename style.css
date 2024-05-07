@@ -192,15 +192,17 @@ p{
     font-size: 20px;
 }
 h2{
-    max-width: 988px;
+    max-width: 988px;    
     padding: 20px 41px;
-    font-size: 32px;
+    font-size: 30px;
     margin: auto;
 }
 .mappa img{
+    display: flex;
     max-width: 988px;
-    padding: 20px 50px;
+    padding: 20px 41px;
     margin: auto;
+    
 }
 
 section.cards {
